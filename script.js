@@ -9,8 +9,6 @@ function makeRow() {
   }
   table.appendChild(row);
 }
-makeRow();
-makeRow();
 
 const button = document.getElementById("add-row");
 
